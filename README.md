@@ -44,7 +44,7 @@ Tecnologias e ferramentas que utilizo em projetos de análise de dados e Machine
 - Análise estatística e visualizações
 - Geração de insights para tomada de decisão  
 📌 Tecnologias: Python, Pandas, Matplotlib  
-🔗 [Ver repositório](LINK_DO_PROJETO)
+🔗 [Ver repositório](https://github.com/luizfilipe68/analise-comportamento-clientes-datacommerce.git)
 
 🔹 **Modelo de Machine Learning**
 - Pré-processamento dos dados
