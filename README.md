@@ -55,5 +55,5 @@ Tecnologias e ferramentas que utilizo em projetos de análise de dados e Machine
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luiz-filipe-fernandes-680040154/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/luiz-filipe-f-680040154/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:luiz.filipe68@gmail.com)
