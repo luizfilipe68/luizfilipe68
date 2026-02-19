@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Ciência de Dados pela EBAC** e estou em constante especialização na área, com foco em:
+Sou estudante em **Ciência de Dados pela EBAC** e estou em constante especialização na área, com foco em:
 
 - Análise exploratória e tratamento de dados  
 - Construção e avaliação de modelos de Machine Learning  
